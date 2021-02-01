@@ -1,0 +1,14 @@
+div {
+  display: inline-flex;
+  max-width: 1000px;
+}
+
+div:hover .image {
+  opacity: 0.5;
+}
+
+.not-name {
+  opacity: 0;
+  max-width: 2px;
+  max-height: 2px;
+}
