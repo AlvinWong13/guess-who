@@ -1,30 +1,42 @@
 var people = [
   {
-    name: 'Dev',
-    githubUsername: 'devjanaprime'
+    name: 'Alvin ',
+    githubUsername: 'AlvinWong13',
   },
   {
-    name: 'Dane',
-    githubUsername: 'DoctorHowser'
+    name: 'John',
+    githubUsername: 'jmbielejeski',
   },
   {
-    name: 'Mary',
-    githubUsername: 'mbmosman'
+    name: 'Anthony',
+    githubUsername: 'MartSpeed',
   },
   {
-    name: 'Kris',
-    githubUsername: 'kdszafranski'
+    name: 'McKynlee',
+    githubUsername: 'McKynlee',
   },
   {
-    name: 'Edan',
-    githubUsername: 'eschwartz'
+    name: 'Dusty',
+    githubUsername: 'dustymeyers',
   },
   {
-    name: 'Casie',
-    githubUsername: 'cassandradanger'
+    name: 'Johnny',
+    githubUsername: 'jgoth23',
   },
   {
-    name: 'Chris',
-    githubUsername: 'christopher-black'
+    name: 'Josh',
+    githubUsername: 'joshgulledge',
+  },
+  {
+    name: 'Vada',
+    githubUsername: 'vkarlen',
+  },
+  {
+    name: 'Peter',
+    githubUsername: 'pnguy5724',
+  },
+  {
+    name: 'Zack',
+    githubUsername: 'BuriedinDreams',
   },
 ];
